@@ -3,11 +3,11 @@ package D15;
 import java.io.*;
 public class Main {
     public static void main(String[] args) throws Exception {
-        Student s1 = new Student(1001, "Nika", "A");
-        Student s2 = new Student(2234, "Mari", "B");
-        Student s3 = new Student(4363, "Zura", "F");
-        Student s4 = new Student(5844, "Diana", "C");
-        Student s5 = new Student(5478, "Sandro", "B");
+        Student s1 = new Student(10041, "Nika", "A");
+        Student s2 = new Student(22834, "Mari", "B");
+        Student s3 = new Student(43663, "Zura", "F");
+        Student s4 = new Student(58644, "Diana", "C");
+        Student s5 = new Student(54748, "Sandro", "B");
 
         Student[] students = {s1, s2, s3, s4, s5};
 

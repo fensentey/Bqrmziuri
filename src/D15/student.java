@@ -1,7 +1,7 @@
 package D15;
 import java.io.Serializable;
 
-class Student implements Serializable {
+class Student implements Serializable{
     int id;
     String name;
     String grade;
@@ -10,6 +10,7 @@ class Student implements Serializable {
         this.id = id;
         this.name = name;
         this.grade = grade;
+        //
     }
 }
 
